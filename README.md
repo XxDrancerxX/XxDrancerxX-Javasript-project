@@ -15,7 +15,7 @@ Install the packages by typing: `npm install`.
 ### How do I run my website to see live changes?  
 
 
-Type on the command line `$ npm run start` and type localhost on the browser.
+Type on the command line `$ npm run start` and type q on the browser.
 
 ### Where do I write my code?  
 
